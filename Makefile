@@ -1,7 +1,7 @@
-ARCH = $(shell uname -m)
 XUNIT_FILE ?= ./test-results.xml
 
-.PHONY: install
+.PHONY: all
+all: install format lint
 
 .PHONY: format
 format:
@@ -23,4 +23,4 @@ install:
 
 .PHONY: test
 test:
-	pipenv run pytest
+	pipenv run pytest  --junitxml=$(XUNIT_FILE)
