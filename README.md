@@ -1,4 +1,4 @@
-Change the repo in the following badge!!!
+DISCLAIMER: CHANGE THE REPO IN THE FOLLOWING BADGE! THIS IS A TEMPLATE!!!
 
 ![Workflow](https://github.com/pardi/pipenv_python3.9/actions/workflows/python-app.yml/badge.svg?branch=main)
 
