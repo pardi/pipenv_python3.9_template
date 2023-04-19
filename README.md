@@ -1,5 +1,6 @@
 Change the repo in the following badge!!!
-![example branch parameter](https://github.com/pardi/pipenv_python3.9/actions/workflows/python-app.yml/badge.svg?branch=main)
+
+![Workflow](https://github.com/pardi/pipenv_python3.9/actions/workflows/python-app.yml/badge.svg?branch=main)
 
 # pipenv_python3.9_template
 This is a template repository for using pipenv with python3.9. 
